@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Tim! 👋🏼</h1>
-<h2 align="center">Student and hobby developer</h2>
+<h3 align="center">Student and hobby developer</h3>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Putzefurcht71&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues&bg_color=00000000">
